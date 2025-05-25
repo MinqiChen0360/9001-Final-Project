@@ -2,9 +2,11 @@
 Inventory Manager - COMP9001 Final Project
 ===========================================
 
+
 Author: Minqi Chen
 SID: 540236635
 Course: COMP9001 - Introduction to Programming
+
 
 1. Project Overview
 -----------------------
